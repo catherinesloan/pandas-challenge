@@ -1,0 +1,7 @@
+Three observable trends based on the data (written description)
+
+1. Males make up 84.03% of the total number of players as opposed to females who only make up 14.06%. However, in total, females spend on average 40 cents more per purchase than males.
+
+2. 20-24 year olds is the largest age demographic with 44.79% of the total players. The age groups either side of 20-24 are the second and third largest, therefore a massive 76.74% of the players are 15-29 years of age. 
+
+3. The game 'Singed Scalpel' is not in the most popular table, it is however more profitable than games with a higher value count of 9. This is due to its higher item price.
