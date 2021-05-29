@@ -7,10 +7,10 @@ Assigned the task of analysing the data for an independent gaming company's most
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. 
 
 ### Task:
-Generate a report that breaks down the game's purchasing data into meaningful insights.
+Generate a report that breaks down the game's [purchasing data](https://github.com/catherinesloan/pandas-challenge/blob/main/Heroes%20of%20Pymoli/purchase_data.csv) into meaningful insights.
 
 ### Output:
-The final report includes each of the following:
+The final report includes each of the following... 
 
 1. Player Count:
    - Total Number of Players
