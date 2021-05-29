@@ -15,7 +15,7 @@ The final report includes each of the following:
 1. Player Count:
    - Total Number of Players
 
-2. Purchasing Analysis (Total):
+2. Purchasing Analysis (total):
    - Number of Unique Items
    - Average Purchase Price
    - Total Number of Purchases
