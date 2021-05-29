@@ -2,14 +2,14 @@
 
 ## HEROES OF PYMOLI
 
-### Background
+### Background:
 Assigned the task of analysing the data for an independent gaming company's most recent fantasy game, Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. 
 
-### Task
+### Task:
 Generate a report that breaks down the game's purchasing data into meaningful insights.
 
-### Output
+### Output:
 The final report includes each of the following:
 
 1. Player Count:
@@ -27,6 +27,7 @@ The final report includes each of the following:
    - Percentage and Count of Other / Non-Disclosed
 
 4. Purchasing Analysis (Gender):
+
 The below each broken by gender
    - Purchase Count
    - Average Purchase Price
