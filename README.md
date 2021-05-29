@@ -10,7 +10,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 Generate a report that breaks down the game's [purchasing data](https://github.com/catherinesloan/pandas-challenge/blob/main/Heroes%20of%20Pymoli/purchase_data.csv) into meaningful insights.
 
 ### Output:
-The final report includes each of the following... 
+The [final report](https://github.com/catherinesloan/pandas-challenge/blob/main/Heroes%20of%20Pymoli/HeroesOfPymoli_Script.ipynb) includes each of the following... 
 
 1. Player Count:
    - Total Number of Players
@@ -57,3 +57,5 @@ The final report includes each of the following...
    - Purchase Count
    - Item Price
    - Total Purchase Value
+
+9. [Three observable trends](https://github.com/catherinesloan/pandas-challenge/blob/main/Heroes%20of%20Pymoli/Analysis.txt)
