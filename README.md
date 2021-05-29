@@ -58,4 +58,4 @@ The [final report](https://github.com/catherinesloan/pandas-challenge/blob/main/
    - Item Price
    - Total Purchase Value
 
-9. [Three observable trends](https://github.com/catherinesloan/pandas-challenge/blob/main/Heroes%20of%20Pymoli/Analysis.txt)
+9. A [written description](https://github.com/catherinesloan/pandas-challenge/blob/main/Heroes%20of%20Pymoli/Analysis.txt) of three observable trends
