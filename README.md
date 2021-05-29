@@ -26,38 +26,32 @@ The final report includes each of the following:
    - Percentage and Count of Female Players
    - Percentage and Count of Other / Non-Disclosed
 
-4. Purchasing Analysis (Gender):
-
-The below each broken by gender
+4. Purchasing Analysis (each broken by gender):
    - Purchase Count
    - Average Purchase Price
    - Total Purchase Value
    - Average Purchase Total per Person by Gender
 
-5. Age Demographics:
-The below each broken into bins of 4 years 
+5. Age Demographics (each broken into bins of 4 years):
    - Purchase Count
    - Average Purchase Price
    - Total Purchase Value
    - Average Purchase Total per Person by Age Group
 
-6. Top Spenders:
-Identified the top 5 spenders in the game by total purchase value, listed in a table: 
+6. Top Spenders, identified the top 5 by total purchase value (listed in a table): 
    - SN
    - Purchase Count
    - Average Purchase Price
    - Total Purchase Value
 
-7. Most Popular Items:
-Identified the 5 most popular items by purchase count, listen in a table:
+7. Most Popular Items, identified the 5 most popular items by purchase count (listed in a table):
    - Item ID
    - Item Name
    - Purchase Count
    - Item Price
    - Total Purchase Value
 
-8. Most Profitable Items:
-Identified the 5 most profitable items by total purchase value, listed in a table:
+8. Most Profitable Items, identified the 5 most profitable items by total purchase value (listed in a table):
    - Item ID
    - Item Name
    - Purchase Count
